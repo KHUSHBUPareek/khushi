@@ -1,0 +1,2 @@
+window["cmsg"]["strings"]["en-IN"] = window["cmsg"]["strings"]["en-IN"] || [];
+window["cmsg"]["strings"]["en-IN"].push({"497c42c749e443351844b09c291f80a97b20d9a1":"Copy style","8e8dbe5ab155536b631586c228d91fe8255fdd71":"Paste style"});
